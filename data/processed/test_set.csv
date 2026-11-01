@@ -1,0 +1,414 @@
+player_name,season,height,position,date_of_birth_age,minutes_played,n_injuries,days_out,matches_missed,has_injury,season_start,age_season,has_injury_next_season
+Abde Ezzalzouli,22/23,177.0,Left Winger,Dec 17 2001 (23),2583.0,1,23.0,4.0,True,2022,21,0
+Abde Ezzalzouli,23/24,177.0,Left Winger,Dec 17 2001 (23),3016.0,0,0.0,0.0,False,2023,22,0
+Abdel Abqar,22/23,188.0,Centre-Back,Mar 10 1999 (25),3700.0,0,0.0,0.0,False,2022,23,1
+Abdel Abqar,23/24,188.0,Centre-Back,Mar 10 1999 (25),2405.0,1,10.0,1.0,True,2023,24,0
+Abdul Mumin,22/23,188.0,Centre-Back,Jun 6 1998 (26),1727.0,0,0.0,0.0,False,2022,24,0
+Abdul Mumin,23/24,188.0,Centre-Back,Jun 6 1998 (26),1930.0,0,0.0,0.0,False,2023,25,0
+Abel Ruiz,22/23,182.0,Centre-Forward,Jan 28 2000 (25),4548.0,0,0.0,0.0,False,2022,22,0
+Adam Aznou,22/23,178.0,Left-Back,Jun 2 2006 (18),1563.0,2,171.0,21.0,True,2022,16,0
+Adam Aznou,23/24,178.0,Left-Back,Jun 2 2006 (18),3522.0,0,0.0,0.0,False,2023,17,0
+Adama Boiro,23/24,183.0,Left-Back,Jun 22 2002 (22),4232.0,0,0.0,0.0,False,2023,21,0
+Adnan Januzaj,22/23,186.0,Right Winger,Feb 5 1995 (30),1110.0,0,0.0,0.0,False,2022,27,0
+AdriÃ¡n,22/23,190.0,Goalkeeper,Jan 3 1987 (38),90.0,0,0.0,0.0,False,2022,35,0
+AdriÃ¡n,23/24,190.0,Goalkeeper,Jan 3 1987 (38),0.0,0,0.0,0.0,False,2023,36,0
+AdriÃ¡n RodrÃ­guez,22/23,195.0,Goalkeeper,Dec 12 2000 (24),6480.0,0,0.0,0.0,False,2022,22,0
+Aimar Oroz,22/23,177.0,Attacking Midfield,Nov 27 2001 (23),2899.0,2,44.0,8.0,True,2022,21,1
+Aitor Ruibal,22/23,176.0,Right-Back,Mar 22 1996 (28),2941.0,0,0.0,0.0,False,2022,26,1
+Aitor Ruibal,23/24,176.0,Right-Back,Mar 22 1996 (28),2264.0,1,36.0,5.0,True,2023,27,0
+Albert Sambi Lokonga,22/23,183.0,Central Midfield,Oct 22 1999 (25),1875.0,0,0.0,0.0,False,2022,23,1
+Albert Sambi Lokonga,23/24,183.0,Central Midfield,Oct 22 1999 (25),1443.0,1,70.0,14.0,True,2023,24,1
+Alberto Moleiro,22/23,171.0,Attacking Midfield,Sep 30 2003 (21),2876.0,0,0.0,0.0,False,2022,19,1
+Alberto Moleiro,23/24,171.0,Attacking Midfield,Sep 30 2003 (21),1984.0,1,39.0,7.0,True,2023,20,0
+Alejandro FrancÃ©s,22/23,182.0,Centre-Back,Aug 1 2002 (22),2009.0,0,0.0,0.0,False,2022,20,0
+Alejo Veliz,22/23,186.0,Centre-Forward,Sep 19 2003 (21),4248.0,0,0.0,0.0,False,2022,19,1
+Aleksandar Sedlar,22/23,180.0,Centre-Back,Dec 13 1991 (33),3424.0,0,0.0,0.0,False,2022,31,1
+Alex KrÃ¡l,22/23,186.0,Central Midfield,May 19 1998 (26),3078.0,1,20.0,2.0,True,2022,24,0
+Alex KrÃ¡l,23/24,186.0,Central Midfield,May 19 1998 (26),1714.0,0,0.0,0.0,False,2023,25,0
+Alexander SÃ¸rloth,22/23,195.0,Centre-Forward,Dec 5 1995 (29),4266.0,3,24.0,5.0,True,2022,27,1
+Alexander SÃ¸rloth,23/24,195.0,Centre-Forward,Dec 5 1995 (29),3548.0,1,25.0,7.0,True,2023,28,1
+Alfon GonzÃ¡lez,22/23,172.0,Left Winger,May 4 1999 (25),1614.0,0,0.0,0.0,False,2022,23,0
+Alfonso Pedraza,22/23,184.0,Left-Back,Apr 9 1996 (28),1970.0,2,70.0,15.0,True,2022,26,1
+Andreas Christensen,22/23,187.0,Centre-Back,Apr 10 1996 (28),3365.0,3,72.0,15.0,True,2022,26,1
+Andreas Christensen,23/24,187.0,Centre-Back,Apr 10 1996 (28),3204.0,2,28.0,3.0,True,2023,27,1
+Andrei RaÈ›iu,22/23,183.0,Right-Back,Jun 20 1998 (26),4181.0,1,13.0,0.0,True,2022,24,0
+Andrei RaÈ›iu,23/24,183.0,Right-Back,Jun 20 1998 (26),1558.0,0,0.0,0.0,False,2023,25,1
+Andriy Lunin,22/23,191.0,Goalkeeper,Feb 11 1999 (26),1530.0,0,0.0,0.0,False,2022,23,1
+Andriy Lunin,23/24,191.0,Goalkeeper,Feb 11 1999 (26),3210.0,1,11.0,0.0,True,2023,24,1
+AndrÃ© Almeida,22/23,176.0,Attacking Midfield,May 30 2000 (24),3884.0,0,0.0,0.0,False,2022,22,1
+Ansu Fati,22/23,178.0,Left Winger,Oct 31 2002 (22),2052.0,1,7.0,2.0,True,2022,20,1
+Ansu Fati,23/24,178.0,Left Winger,Oct 31 2002 (22),1409.0,1,70.0,14.0,True,2023,21,1
+Ante Budimir,22/23,190.0,Centre-Forward,Jul 22 1991 (33),2591.0,0,0.0,0.0,False,2022,31,1
+Ante Budimir,23/24,190.0,Centre-Forward,Jul 22 1991 (33),3096.0,1,28.0,4.0,True,2023,32,0
+Antoine Griezmann,22/23,176.0,Centre-Forward,Mar 21 1991 (33),4639.0,0,0.0,0.0,False,2022,31,1
+Antoine Griezmann,23/24,176.0,Centre-Forward,Mar 21 1991 (33),4645.0,1,21.0,4.0,True,2023,32,0
+Antonio RÃ¼diger,22/23,190.0,Centre-Back,Mar 3 1993 (31),4392.0,0,0.0,0.0,False,2022,29,1
+Antonio RÃ¼diger,23/24,190.0,Centre-Back,Mar 3 1993 (31),5434.0,2,23.0,4.0,True,2023,30,1
+Antoniu Roca,22/23,,Right Winger,Sep 5 2002 (22),1426.0,0,0.0,0.0,False,2022,20,0
+Arda GÃ¼ler,22/23,175.0,Right Winger,Feb 25 2005 (19),2052.0,3,43.0,2.0,True,2022,17,1
+Arda GÃ¼ler,23/24,175.0,Right Winger,Feb 25 2005 (19),936.0,3,148.0,29.0,True,2023,18,0
+Arnau MartÃ­nez,22/23,182.0,Right-Back,Apr 25 2003 (21),3352.0,0,0.0,0.0,False,2022,19,0
+Arnaut Danjuma,22/23,178.0,Left Winger,Jan 31 1997 (28),1248.0,0,0.0,0.0,False,2022,25,0
+Arsen Zakharyan,22/23,183.0,Attacking Midfield,May 26 2003 (21),3095.0,2,18.0,2.0,True,2022,19,1
+Arsen Zakharyan,23/24,183.0,Attacking Midfield,May 26 2003 (21),2141.0,5,49.0,7.0,True,2023,20,1
+Arthur Melo,22/23,172.0,Defensive Midfield,Aug 12 1996 (28),256.0,2,155.0,27.0,True,2022,26,1
+Arthur Melo,23/24,172.0,Defensive Midfield,Aug 12 1996 (28),3554.0,3,21.0,6.0,True,2023,27,0
+Augusto Batalla,22/23,186.0,Goalkeeper,Apr 30 1996 (28),7830.0,1,4.0,1.0,True,2022,26,0
+AurÃ©lien TchouamÃ©ni,22/23,188.0,Defensive Midfield,Jan 27 2000 (25),3877.0,3,33.0,9.0,True,2022,22,1
+AurÃ©lien TchouamÃ©ni,23/24,188.0,Defensive Midfield,Jan 27 2000 (25),3700.0,2,70.0,16.0,True,2023,23,1
+Axel Witsel,22/23,186.0,Centre-Back,Jan 12 1989 (36),3599.0,0,0.0,0.0,False,2022,33,1
+Ayoze PÃ©rez,22/23,178.0,Centre-Forward,Jul 29 1993 (31),2344.0,1,20.0,4.0,True,2022,29,1
+Ayoze PÃ©rez,23/24,178.0,Centre-Forward,Jul 29 1993 (31),3065.0,2,53.0,9.0,True,2023,30,1
+BertuÄŸ YÄ±ldÄ±rÄ±m,22/23,191.0,Centre-Forward,Jul 12 2002 (22),1629.0,0,0.0,0.0,False,2022,20,1
+BertuÄŸ YÄ±ldÄ±rÄ±m,23/24,191.0,Centre-Forward,Jul 12 2002 (22),1632.0,1,8.0,2.0,True,2023,21,1
+BeÃ±at Turrientes,22/23,181.0,Central Midfield,Jan 31 2002 (23),630.0,1,40.0,6.0,True,2022,20,1
+BeÃ±at Turrientes,23/24,181.0,Central Midfield,Jan 31 2002 (23),3106.0,1,12.0,2.0,True,2023,21,0
+Bojan Miovski,22/23,189.0,Centre-Forward,Jun 24 1999 (25),6980.0,1,6.0,2.0,True,2022,23,0
+Bojan Miovski,23/24,189.0,Centre-Forward,Jun 24 1999 (25),8715.0,0,0.0,0.0,False,2023,24,0
+Borja Iglesias,22/23,187.0,Centre-Forward,Jan 17 1993 (32),2847.0,0,0.0,0.0,False,2022,29,1
+Borna Barisic,22/23,186.0,Left-Back,Nov 10 1992 (32),7855.0,0,0.0,0.0,False,2022,30,0
+Borna Barisic,23/24,186.0,Left-Back,Nov 10 1992 (32),4704.0,0,0.0,0.0,False,2023,31,1
+Brahim DÃ­az,23/24,170.0,Right Winger,Aug 3 1999 (25),2436.0,0,0.0,0.0,False,2023,24,1
+Bryan Gil,22/23,175.0,Left Winger,Feb 11 2001 (24),2245.0,1,15.0,3.0,True,2022,21,1
+Bryan Gil,23/24,175.0,Left Winger,Feb 11 2001 (24),233.0,1,65.0,10.0,True,2023,22,1
+Carl Starfelt,22/23,187.0,Centre-Back,Jun 1 1995 (29),5844.0,1,62.0,16.0,True,2022,27,1
+Carl Starfelt,23/24,187.0,Centre-Back,Jun 1 1995 (29),2669.0,1,27.0,5.0,True,2023,28,0
+Carlos MartÃ­n,22/23,180.0,Left Winger,Apr 22 2002 (22),5695.0,0,0.0,0.0,False,2022,20,0
+Carlos Romero,22/23,,Left-Back,Oct 29 2001 (23),971.0,0,0.0,0.0,False,2022,21,0
+Cenk Ã–zkacar,22/23,190.0,Centre-Back,Oct 6 2000 (24),2126.0,0,0.0,0.0,False,2022,22,1
+Chidera Ejuke,22/23,176.0,Left Winger,Jan 2 1998 (27),932.0,1,101.0,15.0,True,2022,24,0
+Chidera Ejuke,23/24,176.0,Left Winger,Jan 2 1998 (27),2432.0,0,0.0,0.0,False,2023,25,1
+Chimy Ãvila,23/24,172.0,Centre-Forward,Feb 6 1994 (31),1485.0,2,92.0,15.0,True,2023,29,0
+Chuki,22/23,,Attacking Midfield,Apr 29 2004 (20),3346.0,0,0.0,0.0,False,2022,18,0
+Conor Gallagher,22/23,182.0,Central Midfield,Feb 6 2000 (25),2314.0,0,0.0,0.0,False,2022,22,1
+Conor Gallagher,23/24,182.0,Central Midfield,Feb 6 2000 (25),4387.0,1,5.0,0.0,True,2023,23,0
+Cristhian Mosquera,23/24,191.0,Centre-Back,Jun 27 2004 (20),3567.0,0,0.0,0.0,False,2023,19,0
+Cucho HernÃ¡ndez,22/23,176.0,Centre-Forward,Apr 20 1999 (25),5738.0,1,40.0,6.0,True,2022,23,1
+Cucho HernÃ¡ndez,23/24,176.0,Centre-Forward,Apr 20 1999 (25),5535.0,1,19.0,3.0,True,2023,24,0
+Cyle Larin,22/23,188.0,Centre-Forward,Apr 17 1995 (29),2317.0,0,0.0,0.0,False,2022,27,0
+Cyle Larin,23/24,188.0,Centre-Forward,Apr 17 1995 (29),3108.0,0,0.0,0.0,False,2023,28,0
+CÃ©dric Bakambu,22/23,182.0,Centre-Forward,Apr 11 1991 (33),2459.0,0,0.0,0.0,False,2022,31,1
+CÃ©dric Bakambu,23/24,182.0,Centre-Forward,Apr 11 1991 (33),1447.0,1,141.0,14.0,True,2023,32,0
+Daley Blind,22/23,180.0,Centre-Back,Mar 9 1990 (34),2235.0,0,0.0,0.0,False,2022,32,0
+DamiÃ¡n RodrÃ­guez,22/23,180.0,Defensive Midfield,Mar 17 2003 (21),2800.0,0,0.0,0.0,False,2022,19,0
+Dani Olmo,22/23,179.0,Attacking Midfield,May 7 1998 (26),2020.0,2,86.0,20.0,True,2022,24,1
+Dani Olmo,23/24,179.0,Attacking Midfield,May 7 1998 (26),2236.0,3,114.0,25.0,True,2023,25,1
+Dani Parejo,22/23,182.0,Central Midfield,Apr 16 1989 (35),4276.0,0,0.0,0.0,False,2022,33,1
+Dani Vivian,23/24,184.0,Centre-Back,Jul 5 1999 (25),3795.0,2,17.0,3.0,True,2023,24,0
+Daniel Carvajal,22/23,173.0,Right-Back,Jan 11 1992 (33),4224.0,2,21.0,5.0,True,2022,30,1
+Daniel Carvajal,23/24,173.0,Right-Back,Jan 11 1992 (33),3957.0,1,8.0,2.0,True,2023,31,1
+Darwin MachÃ­s,22/23,171.0,Left Winger,Feb 7 1993 (32),1986.0,1,31.0,5.0,True,2022,29,0
+David Alaba,22/23,180.0,Centre-Back,Jun 24 1992 (32),4017.0,2,55.0,13.0,True,2022,30,1
+David Alaba,23/24,180.0,Centre-Back,Jun 24 1992 (32),1541.0,2,404.0,64.0,True,2023,31,1
+David Torres,22/23,182.0,Centre-Back,Mar 5 2003 (21),2893.0,0,0.0,0.0,False,2022,19,0
+Denis SuÃ¡rez,22/23,176.0,Attacking Midfield,Jan 6 1994 (31),948.0,0,0.0,0.0,False,2022,28,1
+Diego Llorente,22/23,186.0,Centre-Back,Aug 16 1993 (31),1995.0,2,39.0,11.0,True,2022,29,1
+Diego Llorente,23/24,186.0,Centre-Back,Aug 16 1993 (31),3603.0,3,33.0,7.0,True,2023,30,0
+Diego LÃ³pez,22/23,172.0,Right Winger,May 13 2002 (22),2467.0,0,0.0,0.0,False,2022,20,1
+Diego LÃ³pez,23/24,172.0,Right Winger,May 13 2002 (22),3745.0,1,26.0,3.0,True,2023,21,0
+Dinko Horkas,22/23,189.0,Goalkeeper,Mar 10 1999 (25),2745.0,1,20.0,4.0,True,2022,23,0
+DjenÃ©,22/23,178.0,Centre-Back,Dec 31 1991 (33),3118.0,0,0.0,0.0,False,2022,31,1
+DjenÃ©,23/24,178.0,Centre-Back,Dec 31 1991 (33),2955.0,1,7.0,1.0,True,2023,32,0
+Dodi LukÃ©bakio,22/23,187.0,Right Winger,Sep 24 1997 (27),2772.0,0,0.0,0.0,False,2022,25,1
+Dodi LukÃ©bakio,23/24,187.0,Right Winger,Sep 24 1997 (27),1581.0,1,83.0,15.0,True,2023,26,0
+Donny van de Beek,22/23,184.0,Central Midfield,Apr 18 1997 (27),363.0,2,231.0,48.0,True,2022,25,1
+Duk,22/23,182.0,Left Winger,Feb 16 2000 (25),5522.0,0,0.0,0.0,False,2022,22,0
+Duk,23/24,182.0,Left Winger,Feb 16 2000 (25),5026.0,0,0.0,0.0,False,2023,23,0
+DÃ¡rio Essugo,22/23,178.0,Defensive Midfield,Mar 14 2005 (19),2107.0,1,39.0,6.0,True,2022,17,0
+DÃ¡rio Essugo,23/24,178.0,Defensive Midfield,Mar 14 2005 (19),2177.0,0,0.0,0.0,False,2023,18,0
+Eduardo Camavinga,22/23,182.0,Central Midfield,Nov 10 2002 (22),4076.0,0,0.0,0.0,False,2022,20,1
+Eduardo Camavinga,23/24,182.0,Central Midfield,Nov 10 2002 (22),3396.0,2,56.0,10.0,True,2023,21,1
+Endrick,22/23,173.0,Centre-Forward,Jul 21 2006 (18),4596.0,0,0.0,0.0,False,2022,16,0
+Eray CÃ¶mert,22/23,183.0,Centre-Back,Feb 4 1998 (27),2150.0,0,0.0,0.0,False,2022,24,0
+Eray CÃ¶mert,23/24,183.0,Centre-Back,Feb 4 1998 (27),2268.0,0,0.0,0.0,False,2023,25,0
+Eric Bailly,22/23,187.0,Centre-Back,Apr 12 1994 (30),859.0,2,79.0,11.0,True,2022,28,1
+Eric Bailly,23/24,187.0,Centre-Back,Apr 12 1994 (30),1927.0,5,82.0,14.0,True,2023,29,1
+Eric GarcÃ­a,22/23,182.0,Centre-Back,Jan 9 2001 (24),2157.0,1,6.0,1.0,True,2022,21,1
+Federico Valverde,22/23,182.0,Central Midfield,Jul 22 1998 (26),5925.0,1,5.0,1.0,True,2022,24,0
+Ferland Mendy,22/23,180.0,Left-Back,Jun 8 1995 (29),2219.0,2,94.0,23.0,True,2022,27,1
+FermÃ­n LÃ³pez,22/23,174.0,Central Midfield,May 11 2003 (21),5569.0,0,0.0,0.0,False,2022,19,0
+Fernando Pacheco,22/23,187.0,Goalkeeper,May 18 1992 (32),1530.0,0,0.0,0.0,False,2022,30,0
+Ferran Torres,22/23,184.0,Right Winger,Feb 29 2000 (24),2580.0,0,0.0,0.0,False,2022,22,1
+Ferran Torres,23/24,184.0,Right Winger,Feb 29 2000 (24),2236.0,1,58.0,11.0,True,2023,23,1
+Florian Grillitsch,22/23,187.0,Defensive Midfield,Aug 7 1995 (29),924.0,2,39.0,9.0,True,2022,27,1
+Florian Grillitsch,23/24,187.0,Defensive Midfield,Aug 7 1995 (29),2791.0,2,29.0,6.0,True,2023,28,1
+Fran PÃ©rez,22/23,176.0,Right Winger,Sep 9 2002 (22),1350.0,0,0.0,0.0,False,2022,20,0
+Fran Vieites,22/23,196.0,Goalkeeper,May 7 1999 (25),3060.0,0,0.0,0.0,False,2022,23,0
+Fran Vieites,23/24,196.0,Goalkeeper,May 7 1999 (25),1125.0,0,0.0,0.0,False,2023,24,0
+FÃ¡bio Silva,22/23,185.0,Centre-Forward,Jul 19 2002 (22),4534.0,0,0.0,0.0,False,2022,20,0
+FÃ¡bio Silva,23/24,185.0,Centre-Forward,Jul 19 2002 (22),3597.0,0,0.0,0.0,False,2023,21,0
+Gabriel Misehouy,22/23,173.0,Attacking Midfield,Jul 18 2005 (19),1777.0,1,43.0,6.0,True,2022,17,1
+Gabriel Misehouy,23/24,173.0,Attacking Midfield,Jul 18 2005 (19),1059.0,1,67.0,9.0,True,2023,18,0
+Gavi,22/23,173.0,Central Midfield,Aug 5 2004 (20),4713.0,0,0.0,0.0,False,2022,18,1
+Gerard Moreno,22/23,180.0,Centre-Forward,Apr 7 1992 (32),1964.0,2,87.0,20.0,True,2022,30,0
+Giorgi Mamardashvili,22/23,197.0,Goalkeeper,Sep 29 2000 (24),5133.0,0,0.0,0.0,False,2022,22,0
+Giorgi Mamardashvili,23/24,197.0,Goalkeeper,Sep 29 2000 (24),3945.0,0,0.0,0.0,False,2023,23,1
+Giovani Lo Celso,22/23,177.0,Central Midfield,Apr 9 1996 (28),2259.0,1,50.0,12.0,True,2022,26,1
+Giovani Lo Celso,23/24,177.0,Central Midfield,Apr 9 1996 (28),1043.0,4,90.0,14.0,True,2023,27,1
+Giuliano Simeone,22/23,173.0,Right Winger,Dec 18 2002 (22),2910.0,0,0.0,0.0,False,2022,20,1
+Hamari TraorÃ©,22/23,175.0,Right-Back,Jan 27 1992 (33),3383.0,1,40.0,8.0,True,2022,30,1
+Hamari TraorÃ©,23/24,175.0,Right-Back,Jan 27 1992 (33),3876.0,2,27.0,3.0,True,2023,31,1
+Hugo Novoa,22/23,182.0,Right-Back,Jan 24 2003 (22),1389.0,1,9.0,2.0,True,2022,19,1
+Hugo Novoa,23/24,182.0,Right-Back,Jan 24 2003 (22),1345.0,1,56.0,0.0,True,2023,20,1
+Hugo Sotelo,22/23,180.0,Central Midfield,Dec 19 2003 (21),3594.0,0,0.0,0.0,False,2022,19,0
+Hugo Sotelo,23/24,180.0,Central Midfield,Dec 19 2003 (21),1168.0,0,0.0,0.0,False,2023,20,0
+Hugo Ãlvarez,22/23,176.0,Left Winger,Jul 2 2003 (21),5358.0,0,0.0,0.0,False,2022,19,0
+HÃ©ctor BellerÃ­n,22/23,178.0,Right-Back,Mar 19 1995 (29),1101.0,2,54.0,10.0,True,2022,27,0
+HÃ©ctor BellerÃ­n,23/24,178.0,Right-Back,Mar 19 1995 (29),2268.0,0,0.0,0.0,False,2023,28,0
+HÃ©ctor Fort,22/23,185.0,Right-Back,Aug 2 2006 (18),1646.0,0,0.0,0.0,False,2022,16,0
+HÃ©ctor Fort,23/24,185.0,Right-Back,Aug 2 2006 (18),3631.0,0,0.0,0.0,False,2023,17,1
+Iker MuÃ±oz,22/23,180.0,Defensive Midfield,Sep 5 2002 (22),5358.0,0,0.0,0.0,False,2022,20,0
+Iker Ãlvarez,22/23,190.0,Goalkeeper,Jul 25 2001 (23),3330.0,0,0.0,0.0,False,2022,21,0
+Iker Ãlvarez,23/24,190.0,Goalkeeper,Jul 25 2001 (23),3028.0,0,0.0,0.0,False,2023,22,0
+Ilaix Moriba,22/23,185.0,Central Midfield,Jan 19 2003 (22),1424.0,0,0.0,0.0,False,2022,19,1
+Ilaix Moriba,23/24,185.0,Central Midfield,Jan 19 2003 (22),1427.0,1,16.0,5.0,True,2023,20,0
+Ilias Akhomach,22/23,175.0,Right Winger,Apr 16 2004 (20),3845.0,1,8.0,1.0,True,2022,18,0
+Ilias Akhomach,23/24,175.0,Right Winger,Apr 16 2004 (20),3393.0,0,0.0,0.0,False,2023,19,1
+Isco,23/24,176.0,Attacking Midfield,Apr 21 1992 (32),3153.0,2,162.0,16.0,True,2023,31,1
+IvÃ¡n Balliu,22/23,172.0,Right-Back,Jan 1 1992 (33),3725.0,1,24.0,2.0,True,2022,30,0
+IvÃ¡n Balliu,23/24,172.0,Right-Back,Jan 1 1992 (33),3221.0,0,0.0,0.0,False,2023,31,0
+IÃ±aki Williams,22/23,186.0,Right Winger,Jun 15 1994 (30),3433.0,2,28.0,4.0,True,2022,28,1
+IÃ±aki Williams,23/24,186.0,Right Winger,Jun 15 1994 (30),3616.0,2,15.0,2.0,True,2023,29,0
+IÃ±igo MartÃ­nez,22/23,182.0,Centre-Back,May 17 1991 (33),1999.0,3,149.0,24.0,True,2022,31,1
+Jan Oblak,22/23,188.0,Goalkeeper,Jan 7 1993 (32),4864.0,1,93.0,10.0,True,2022,29,0
+Jan Oblak,23/24,188.0,Goalkeeper,Jan 7 1993 (32),5565.0,0,0.0,0.0,False,2023,30,0
+Javi Guerra,22/23,187.0,Central Midfield,May 13 2003 (21),4931.0,0,0.0,0.0,False,2022,19,0
+Javi Guerra,23/24,187.0,Central Midfield,May 13 2003 (21),3100.0,0,0.0,0.0,False,2023,20,0
+Javi LÃ³pez,22/23,183.0,Left-Back,Mar 25 2002 (22),1541.0,0,0.0,0.0,False,2022,20,1
+Javi LÃ³pez,23/24,183.0,Left-Back,Mar 25 2002 (22),2653.0,1,20.0,4.0,True,2023,21,0
+Javi RodrÃ­guez,22/23,178.0,Centre-Back,Jun 27 2003 (21),1718.0,0,0.0,0.0,False,2022,19,0
+JesÃºs Areso,22/23,182.0,Right-Back,Jul 2 1999 (25),2780.0,0,0.0,0.0,False,2022,23,0
+JesÃºs Owono,22/23,181.0,Goalkeeper,Mar 1 2001 (23),450.0,0,0.0,0.0,False,2022,21,0
+JesÃºs Owono,23/24,181.0,Goalkeeper,Mar 1 2001 (23),1440.0,0,0.0,0.0,False,2023,22,0
+JesÃºs RodrÃ­guez,23/24,185.0,Left Winger,Nov 21 2005 (19),3758.0,0,0.0,0.0,False,2023,18,0
+JesÃºs Vallejo,22/23,184.0,Centre-Back,Jan 5 1997 (28),99.0,1,15.0,3.0,True,2022,25,1
+JesÃºs Vallejo,23/24,184.0,Centre-Back,Jan 5 1997 (28),106.0,3,297.0,37.0,True,2023,26,1
+Jiri Letacek,22/23,196.0,Goalkeeper,Jan 9 1999 (26),2280.0,0,0.0,0.0,False,2022,23,0
+Johan Mojica,22/23,185.0,Left-Back,Aug 21 1992 (32),2928.0,0,0.0,0.0,False,2022,30,1
+Johnny Cardoso,22/23,186.0,Defensive Midfield,Sep 20 2001 (23),5938.0,1,18.0,5.0,True,2022,21,1
+Johnny Cardoso,23/24,186.0,Defensive Midfield,Sep 20 2001 (23),2015.0,2,55.0,12.0,True,2023,22,1
+Jon Aramburu,22/23,176.0,Right-Back,Jul 23 2002 (22),5446.0,0,0.0,0.0,False,2022,20,0
+Jon Aramburu,23/24,176.0,Right-Back,Jul 23 2002 (22),3300.0,0,0.0,0.0,False,2023,21,0
+Jon MartÃ­n,22/23,187.0,Centre-Back,Apr 23 2006 (18),1654.0,0,0.0,0.0,False,2022,16,0
+Jon MartÃ­n,23/24,187.0,Centre-Back,Apr 23 2006 (18),4876.0,0,0.0,0.0,False,2023,17,0
+Jon Pacheco,22/23,184.0,Centre-Back,Jan 8 2001 (24),3219.0,1,36.0,6.0,True,2022,21,1
+Jon Pacheco,23/24,184.0,Centre-Back,Jan 8 2001 (24),2024.0,1,7.0,2.0,True,2023,22,0
+Jorge Herrando,22/23,192.0,Centre-Back,Feb 28 2001 (23),5786.0,0,0.0,0.0,False,2022,21,0
+Joseph Aidoo,22/23,181.0,Centre-Back,Sep 29 1995 (29),3344.0,1,3.0,1.0,True,2022,27,1
+JosÃ© Gragera,22/23,186.0,Central Midfield,May 14 2000 (24),1963.0,0,0.0,0.0,False,2022,22,0
+JosÃ© Gragera,23/24,186.0,Central Midfield,May 14 2000 (24),2574.0,0,0.0,0.0,False,2023,23,0
+JosÃ© MarÃ­a GimÃ©nez,22/23,185.0,Centre-Back,Jan 20 1995 (30),3453.0,4,156.0,18.0,True,2022,27,1
+JosÃ© Ãngel Carmona,22/23,184.0,Right-Back,Jan 29 2002 (23),1615.0,0,0.0,0.0,False,2022,20,1
+Juan Bernat,23/24,170.0,Left-Back,Mar 1 1993 (31),248.0,1,145.0,30.0,True,2023,30,0
+Juan Berrocal,22/23,187.0,Centre-Back,Feb 5 1999 (26),3133.0,0,0.0,0.0,False,2022,23,0
+Juan Berrocal,23/24,187.0,Centre-Back,Feb 5 1999 (26),3325.0,0,0.0,0.0,False,2023,24,0
+Juan Cruz,22/23,182.0,Left-Back,Jul 28 1992 (32),1346.0,8,420.0,56.0,True,2022,30,1
+Juan Foyth,22/23,187.0,Right-Back,Jan 12 1998 (27),2611.0,2,132.0,20.0,True,2022,24,1
+Juan Foyth,23/24,187.0,Right-Back,Jan 12 1998 (27),1503.0,1,163.0,23.0,True,2023,25,1
+Juan Musso,22/23,191.0,Goalkeeper,May 6 1994 (30),2258.0,2,51.0,7.0,True,2022,28,0
+Juanlu SÃ¡nchez,23/24,186.0,Right-Back,Aug 15 2003 (21),2262.0,1,12.0,1.0,True,2023,20,0
+Jude Bellingham,22/23,186.0,Attacking Midfield,Jun 29 2003 (21),4293.0,1,3.0,1.0,True,2022,19,1
+Jude Bellingham,23/24,186.0,Attacking Midfield,Jun 29 2003 (21),4644.0,2,40.0,7.0,True,2023,20,1
+Jules KoundÃ©,22/23,180.0,Right-Back,Nov 12 1998 (26),4136.0,2,39.0,8.0,True,2022,24,1
+Jules KoundÃ©,23/24,180.0,Right-Back,Nov 12 1998 (26),4988.0,1,19.0,4.0,True,2023,25,0
+JuliÃ¡n Alvarez,22/23,170.0,Centre-Forward,Jan 31 2000 (25),3754.0,1,3.0,1.0,True,2022,22,0
+JuliÃ¡n Alvarez,23/24,170.0,Centre-Forward,Jan 31 2000 (25),4506.0,0,0.0,0.0,False,2023,23,0
+Karl Hein,22/23,193.0,Goalkeeper,Apr 13 2002 (22),1800.0,0,0.0,0.0,False,2022,20,0
+Karl Hein,23/24,193.0,Goalkeeper,Apr 13 2002 (22),630.0,0,0.0,0.0,False,2023,21,0
+Kiko FemenÃ­a,22/23,174.0,Right-Back,Feb 2 1991 (34),1880.0,0,0.0,0.0,False,2022,31,0
+Kylian MbappÃ©,22/23,178.0,Centre-Forward,Dec 20 1998 (26),4562.0,2,14.0,4.0,True,2022,24,0
+Kylian MbappÃ©,23/24,178.0,Centre-Forward,Dec 20 1998 (26),4769.0,0,0.0,0.0,False,2023,25,1
+Ladislav Krejci,22/23,191.0,Centre-Back,Apr 20 1999 (25),2906.0,2,188.0,25.0,True,2022,23,1
+Ladislav Krejci,23/24,191.0,Centre-Back,Apr 20 1999 (25),5243.0,2,42.0,10.0,True,2023,24,1
+Lamine Yamal,22/23,180.0,Right Winger,Jul 13 2007 (17),1401.0,1,32.0,0.0,True,2022,15,1
+Lamine Yamal,23/24,180.0,Right Winger,Jul 13 2007 (17),3645.0,2,14.0,3.0,True,2023,16,1
+Leandro Cabrera,22/23,190.0,Centre-Back,Jun 17 1991 (33),3017.0,0,0.0,0.0,False,2022,31,0
+Leo RomÃ¡n,22/23,189.0,Goalkeeper,Jul 6 2000 (24),297.0,0,0.0,0.0,False,2022,22,0
+Logan Costa,22/23,190.0,Centre-Back,Apr 1 2001 (23),1117.0,0,0.0,0.0,False,2022,21,0
+Logan Costa,23/24,190.0,Centre-Back,Apr 1 2001 (23),5015.0,0,0.0,0.0,False,2023,22,0
+LoÃ¯c BadÃ©,22/23,191.0,Centre-Back,Apr 11 2000 (24),3063.0,1,20.0,4.0,True,2022,22,1
+LoÃ¯c BadÃ©,23/24,191.0,Centre-Back,Apr 11 2000 (24),3142.0,2,44.0,9.0,True,2023,23,1
+Lucas VÃ¡zquez,22/23,173.0,Right-Back,Jul 1 1991 (33),1498.0,1,34.0,9.0,True,2022,31,1
+Lucien AgoumÃ©,22/23,185.0,Defensive Midfield,Feb 9 2002 (23),1098.0,1,50.0,8.0,True,2022,20,1
+Lucien AgoumÃ©,23/24,185.0,Defensive Midfield,Feb 9 2002 (23),1101.0,1,36.0,5.0,True,2023,21,0
+Luka Modric,22/23,172.0,Central Midfield,Sep 9 1985 (39),4699.0,2,15.0,3.0,True,2022,37,1
+Luka Modric,23/24,172.0,Central Midfield,Sep 9 1985 (39),2671.0,1,6.0,2.0,True,2023,38,0
+Luka Sucic,22/23,185.0,Central Midfield,Sep 8 2002 (22),2077.0,3,210.0,36.0,True,2022,20,1
+Luka Sucic,23/24,185.0,Central Midfield,Sep 8 2002 (22),2616.0,3,38.0,7.0,True,2023,21,1
+Manu Bueno,22/23,178.0,Central Midfield,Jul 27 2004 (20),3873.0,0,0.0,0.0,False,2022,18,0
+Manu Bueno,23/24,178.0,Central Midfield,Jul 27 2004 (20),4345.0,0,0.0,0.0,False,2023,19,0
+Marash Kumbulla,22/23,191.0,Centre-Back,Feb 8 2000 (25),865.0,3,291.0,58.0,True,2022,22,1
+Marash Kumbulla,23/24,191.0,Centre-Back,Feb 8 2000 (25),386.0,2,34.0,7.0,True,2023,23,1
+Marc Bartra,22/23,184.0,Centre-Back,Jan 15 1991 (34),3901.0,2,25.0,3.0,True,2022,31,1
+Marc Bartra,23/24,184.0,Centre-Back,Jan 15 1991 (34),405.0,1,150.0,27.0,True,2023,32,0
+Marc Bernal,23/24,191.0,Defensive Midfield,May 26 2007 (17),5266.0,0,0.0,0.0,False,2023,16,1
+Marc CasadÃ³,22/23,172.0,Defensive Midfield,Sep 14 2003 (21),6151.0,0,0.0,0.0,False,2022,19,0
+Marc CasadÃ³,23/24,172.0,Defensive Midfield,Sep 14 2003 (21),5480.0,0,0.0,0.0,False,2023,20,0
+Marc Roca,23/24,184.0,Defensive Midfield,Nov 26 1996 (28),3406.0,0,0.0,0.0,False,2023,27,1
+Marc-AndrÃ© ter Stegen,22/23,187.0,Goalkeeper,Apr 30 1992 (32),4818.0,1,6.0,1.0,True,2022,30,1
+Marc-AndrÃ© ter Stegen,23/24,187.0,Goalkeeper,Apr 30 1992 (32),3780.0,1,86.0,19.0,True,2023,31,1
+Marcos Alonso,22/23,188.0,Left-Back,Dec 28 1990 (34),2197.0,0,0.0,0.0,False,2022,32,1
+Marcos Llorente,22/23,184.0,Right Midfield,Jan 30 1995 (30),2367.0,1,119.0,13.0,True,2022,27,0
+MarcÃ£o,22/23,185.0,Centre-Back,Jun 5 1996 (28),838.0,3,211.0,39.0,True,2022,26,1
+Mario MartÃ­n,22/23,177.0,Defensive Midfield,Mar 5 2004 (20),5387.0,0,0.0,0.0,False,2022,18,0
+MartÃ­n Zubimendi,22/23,181.0,Defensive Midfield,Feb 2 1999 (26),4219.0,1,10.0,0.0,True,2022,23,1
+MartÃ­n Zubimendi,23/24,181.0,Defensive Midfield,Feb 2 1999 (26),3988.0,2,41.0,7.0,True,2023,24,0
+Mateo Flores,23/24,,Central Midfield,Apr 7 2004 (20),2758.0,0,0.0,0.0,False,2023,19,0
+Mauro Arambarri,22/23,175.0,Central Midfield,Sep 30 1995 (29),1000.0,3,297.0,32.0,True,2022,27,1
+Max Aarons,22/23,177.0,Right-Back,Jan 4 2000 (25),4608.0,0,0.0,0.0,False,2022,22,1
+Max Aarons,23/24,177.0,Right-Back,Jan 4 2000 (25),1422.0,2,103.0,15.0,True,2023,23,0
+Miguel GutiÃ©rrez,22/23,180.0,Left-Back,Jul 27 2001 (23),2622.0,0,0.0,0.0,False,2022,21,0
+Mihailo Ristic,22/23,180.0,Left-Back,Oct 31 1995 (29),236.0,2,81.0,15.0,True,2022,27,1
+Mikel Jauregizar,22/23,177.0,Central Midfield,Nov 13 2003 (21),410.0,0,0.0,0.0,False,2022,19,0
+Mikel Jauregizar,23/24,177.0,Central Midfield,Nov 13 2003 (21),3970.0,0,0.0,0.0,False,2023,20,0
+Mikel Oyarzabal,22/23,181.0,Centre-Forward,Apr 21 1997 (27),1754.0,0,0.0,0.0,False,2022,25,1
+Mikel Oyarzabal,23/24,181.0,Centre-Forward,Apr 21 1997 (27),3409.0,3,31.0,7.0,True,2023,26,0
+Mouctar Diakhaby,22/23,192.0,Centre-Back,Dec 19 1996 (28),2756.0,1,22.0,4.0,True,2022,26,1
+Moussa Diarra,22/23,185.0,Centre-Back,Nov 10 2000 (24),1243.0,0,0.0,0.0,False,2022,22,0
+Nahuel Molina,22/23,175.0,Right-Back,Apr 6 1998 (26),4989.0,0,0.0,0.0,False,2022,24,1
+Natan,22/23,188.0,Centre-Back,Feb 6 2001 (24),3170.0,1,54.0,11.0,True,2022,21,1
+Natan,23/24,188.0,Centre-Back,Feb 6 2001 (24),1496.0,1,40.0,6.0,True,2023,22,1
+Nayef Aguerd,22/23,190.0,Centre-Back,Mar 30 1996 (28),3727.0,3,111.0,24.0,True,2022,26,1
+Nayef Aguerd,23/24,190.0,Centre-Back,Mar 30 1996 (28),3847.0,1,11.0,3.0,True,2023,27,0
+Nemanja Gudelj,22/23,187.0,Defensive Midfield,Nov 16 1991 (33),6166.0,0,0.0,0.0,False,2022,31,1
+Nemanja Gudelj,23/24,187.0,Defensive Midfield,Nov 16 1991 (33),2667.0,2,82.0,14.0,True,2023,32,0
+Nico Williams,22/23,181.0,Left Winger,Jul 12 2002 (22),3488.0,3,25.0,4.0,True,2022,20,1
+Nico Williams,23/24,181.0,Left Winger,Jul 12 2002 (22),3432.0,6,55.0,11.0,True,2023,21,1
+Nicolas PÃ©pÃ©,22/23,183.0,Right Winger,May 29 1995 (29),2853.0,3,180.0,22.0,True,2022,27,1
+Nicolas PÃ©pÃ©,23/24,183.0,Right Winger,May 29 1995 (29),1576.0,4,66.0,12.0,True,2023,28,1
+Oihan Sancet,22/23,188.0,Attacking Midfield,Apr 25 2000 (24),3578.0,0,0.0,0.0,False,2022,22,1
+Oihan Sancet,23/24,188.0,Attacking Midfield,Apr 25 2000 (24),2497.0,2,29.0,5.0,True,2023,23,1
+Omar Alderete,22/23,188.0,Centre-Back,Dec 26 1996 (28),2939.0,1,39.0,5.0,True,2022,26,0
+Omar El Hilali,22/23,183.0,Right-Back,Sep 12 2003 (21),2575.0,0,0.0,0.0,False,2022,19,1
+Omar Mascarell,23/24,181.0,Defensive Midfield,Feb 2 1993 (32),2033.0,0,0.0,0.0,False,2023,30,0
+Omar Sadik,22/23,,Centre-Forward,Mar 22 2004 (20),374.0,0,0.0,0.0,False,2022,18,1
+Omar Sadik,23/24,,Centre-Forward,Mar 22 2004 (20),1200.0,1,142.0,13.0,True,2023,19,0
+Orri Ã“skarsson,22/23,186.0,Centre-Forward,Aug 29 2004 (20),2283.0,0,0.0,0.0,False,2022,18,0
+Orri Ã“skarsson,23/24,186.0,Centre-Forward,Aug 29 2004 (20),2325.0,0,0.0,0.0,False,2023,19,0
+Pablo Barrios,22/23,181.0,Central Midfield,Jun 15 2003 (21),2951.0,0,0.0,0.0,False,2022,19,1
+Pablo Barrios,23/24,181.0,Central Midfield,Jun 15 2003 (21),2899.0,4,129.0,29.0,True,2023,20,1
+Pablo DurÃ¡n,22/23,176.0,Centre-Forward,May 25 2001 (23),2140.0,0,0.0,0.0,False,2022,21,0
+Pablo Fornals,22/23,178.0,Attacking Midfield,Feb 22 1996 (29),2861.0,0,0.0,0.0,False,2022,26,0
+Pablo Fornals,23/24,178.0,Attacking Midfield,Feb 22 1996 (29),2436.0,0,0.0,0.0,False,2023,27,0
+Pablo MarÃ­n,22/23,178.0,Attacking Midfield,Jul 3 2003 (21),4654.0,0,0.0,0.0,False,2022,19,0
+Pablo MarÃ­n,23/24,178.0,Attacking Midfield,Jul 3 2003 (21),4694.0,0,0.0,0.0,False,2023,20,0
+Pablo Torre,22/23,173.0,Attacking Midfield,Apr 3 2003 (21),829.0,1,31.0,0.0,True,2022,19,1
+Pablo Torre,23/24,173.0,Attacking Midfield,Apr 3 2003 (21),1333.0,1,4.0,1.0,True,2023,20,1
+Pape Gueye,22/23,189.0,Defensive Midfield,Jan 24 1999 (26),1942.0,0,0.0,0.0,False,2022,23,0
+Pape Gueye,23/24,189.0,Defensive Midfield,Jan 24 1999 (26),1034.0,0,0.0,0.0,False,2023,24,0
+PathÃ© Ciss,22/23,186.0,Central Midfield,Mar 16 1994 (30),1429.0,0,0.0,0.0,False,2022,28,0
+PathÃ© Ciss,23/24,186.0,Central Midfield,Mar 16 1994 (30),1961.0,0,0.0,0.0,False,2023,29,0
+Pau CubarsÃ­,22/23,184.0,Centre-Back,Jan 22 2007 (18),1812.0,0,0.0,0.0,False,2022,15,0
+Pau CubarsÃ­,23/24,184.0,Centre-Back,Jan 22 2007 (18),4057.0,0,0.0,0.0,False,2023,16,0
+Pedri,22/23,174.0,Central Midfield,Nov 25 2002 (22),2856.0,2,112.0,19.0,True,2022,20,1
+Pedri,23/24,174.0,Central Midfield,Nov 25 2002 (22),2339.0,3,131.0,25.0,True,2023,21,1
+Pelayo FernÃ¡ndez,22/23,193.0,Centre-Back,Apr 29 2003 (21),5020.0,2,165.0,9.0,True,2022,19,1
+Peter Federico,22/23,180.0,Right Winger,Jul 25 2002 (22),5700.0,0,0.0,0.0,False,2022,20,0
+RamÃ³n Terrats,22/23,181.0,Defensive Midfield,Oct 18 2000 (24),1804.0,0,0.0,0.0,False,2022,22,1
+Randy Nteka,23/24,189.0,Attacking Midfield,Dec 6 1997 (27),985.0,1,47.0,9.0,True,2023,26,0
+Raphinha,22/23,176.0,Left Winger,Dec 14 1996 (28),3904.0,0,0.0,0.0,False,2022,26,1
+RaÃºl Albiol,22/23,190.0,Centre-Back,Sep 4 1985 (39),2254.0,0,0.0,0.0,False,2022,37,1
+RaÃºl Asencio,22/23,184.0,Centre-Back,Feb 13 2003 (22),720.0,0,0.0,0.0,False,2022,19,0
+RaÃºl Asencio,23/24,184.0,Centre-Back,Feb 13 2003 (22),5854.0,0,0.0,0.0,False,2023,20,0
+RaÃºl GarcÃ­a,22/23,192.0,Centre-Forward,Nov 3 2000 (24),3226.0,0,0.0,0.0,False,2022,22,0
+RaÃºl Moro,23/24,169.0,Left Winger,Dec 5 2002 (22),1642.0,1,27.0,7.0,True,2023,21,1
+Reinildo Mandava,23/24,180.0,Left-Back,Jan 21 1994 (31),1277.0,0,0.0,0.0,False,2023,29,0
+Renato Tapia,22/23,185.0,Defensive Midfield,Jul 28 1995 (29),2279.0,0,0.0,0.0,False,2022,27,1
+Ricardo RodrÃ­guez,22/23,182.0,Left-Back,Aug 25 1992 (32),4177.0,1,6.0,1.0,True,2022,30,1
+Ricardo RodrÃ­guez,23/24,182.0,Left-Back,Aug 25 1992 (32),3639.0,3,25.0,6.0,True,2023,31,0
+Robert Lewandowski,22/23,185.0,Centre-Forward,Aug 21 1988 (36),5103.0,1,13.0,2.0,True,2022,34,1
+Robert Lewandowski,23/24,185.0,Centre-Forward,Aug 21 1988 (36),4192.0,1,23.0,5.0,True,2023,35,1
+Robert Navarro,22/23,178.0,Attacking Midfield,Apr 12 2002 (22),1072.0,0,0.0,0.0,False,2022,20,0
+Robert Navarro,23/24,178.0,Attacking Midfield,Apr 12 2002 (22),2329.0,0,0.0,0.0,False,2023,21,0
+Roberto FernÃ¡ndez,22/23,186.0,Centre-Forward,Jul 3 2002 (22),4596.0,1,31.0,2.0,True,2022,20,0
+Roberto FernÃ¡ndez,23/24,186.0,Centre-Forward,Jul 3 2002 (22),6296.0,0,0.0,0.0,False,2023,21,0
+Robin Le Normand,22/23,187.0,Centre-Back,Nov 11 1996 (28),4493.0,2,37.0,8.0,True,2022,26,1
+Robin Le Normand,23/24,187.0,Centre-Back,Nov 11 1996 (28),4283.0,1,7.0,1.0,True,2023,27,1
+Rodrigo De Paul,22/23,180.0,Central Midfield,May 24 1994 (30),3764.0,0,0.0,0.0,False,2022,28,1
+Rodrygo,22/23,174.0,Right Winger,Jan 9 2001 (24),4986.0,3,26.0,5.0,True,2022,21,0
+Ronald Araujo,22/23,192.0,Centre-Back,Mar 7 1999 (25),3139.0,3,113.0,23.0,True,2022,23,1
+RubÃ©n Vargas,22/23,179.0,Left Winger,Aug 5 1998 (26),2170.0,4,131.0,15.0,True,2022,24,1
+RubÃ©n Vargas,23/24,179.0,Left Winger,Aug 5 1998 (26),2563.0,2,45.0,4.0,True,2023,25,1
+Scott McKenna,22/23,189.0,Centre-Back,Nov 12 1996 (28),2531.0,2,102.0,18.0,True,2022,26,1
+Scott McKenna,23/24,189.0,Centre-Back,Nov 12 1996 (28),1931.0,1,11.0,2.0,True,2023,27,1
+Selim Amallah,22/23,185.0,Attacking Midfield,Nov 15 1996 (28),1201.0,1,64.0,9.0,True,2022,26,0
+Sergi Altimira,23/24,188.0,Central Midfield,Aug 25 2001 (23),796.0,1,22.0,4.0,True,2023,22,0
+Sergi CanÃ³s,22/23,177.0,Left Winger,Feb 2 1997 (28),531.0,2,66.0,14.0,True,2022,25,1
+Sergio Camello,22/23,182.0,Centre-Forward,Feb 10 2001 (24),2818.0,0,0.0,0.0,False,2022,21,0
+Sergio Carreira,22/23,170.0,Right-Back,Oct 13 2000 (24),2211.0,0,0.0,0.0,False,2022,22,0
+Sergio GÃ³mez,22/23,171.0,Right Winger,Sep 4 2000 (24),1713.0,1,34.0,2.0,True,2022,22,1
+Sergio GÃ³mez,23/24,171.0,Right Winger,Sep 4 2000 (24),985.0,1,11.0,3.0,True,2023,23,0
+Seydouba CissÃ©,22/23,178.0,Central Midfield,Feb 10 2001 (24),2958.0,0,0.0,0.0,False,2022,21,0
+Seydouba CissÃ©,23/24,178.0,Central Midfield,Feb 10 2001 (24),1799.0,0,0.0,0.0,False,2023,22,0
+Sheraldo Becker,22/23,180.0,Left Winger,Feb 9 1995 (30),4787.0,0,0.0,0.0,False,2022,27,1
+Sheraldo Becker,23/24,180.0,Left Winger,Feb 9 1995 (30),2506.0,3,58.0,11.0,True,2023,28,0
+Stanis Idumbo,22/23,171.0,Attacking Midfield,Jun 29 2005 (19),5372.0,1,20.0,1.0,True,2022,17,1
+Stanis Idumbo,23/24,171.0,Attacking Midfield,Jun 29 2005 (19),2295.0,2,53.0,11.0,True,2023,18,1
+Stefan Bajcetic,22/23,185.0,Defensive Midfield,Oct 22 2004 (20),1448.0,1,80.0,15.0,True,2022,18,1
+Stefan Bajcetic,23/24,185.0,Defensive Midfield,Oct 22 2004 (20),321.0,1,193.0,47.0,True,2023,19,1
+Stole Dimitrievski,22/23,188.0,Goalkeeper,Dec 25 1993 (31),4405.0,0,0.0,0.0,False,2022,29,0
+Stole Dimitrievski,23/24,188.0,Goalkeeper,Dec 25 1993 (31),3690.0,0,0.0,0.0,False,2023,30,0
+Tajon Buchanan,22/23,183.0,Right Midfield,Feb 8 1999 (26),2808.0,2,113.0,19.0,True,2022,23,1
+Tajon Buchanan,23/24,183.0,Right Midfield,Feb 8 1999 (26),2656.0,2,25.0,6.0,True,2023,24,1
+Takefusa Kubo,22/23,173.0,Right Winger,Jun 4 2001 (23),3679.0,1,7.0,2.0,True,2022,21,0
+Takefusa Kubo,23/24,173.0,Right Winger,Jun 4 2001 (23),3532.0,0,0.0,0.0,False,2023,22,0
+Takuma Asano,22/23,173.0,Right Winger,Nov 10 1994 (30),2033.0,1,64.0,12.0,True,2022,28,0
+TamÃ¡s Nikitscher,22/23,193.0,Central Midfield,Nov 3 1999 (25),5192.0,0,0.0,0.0,False,2022,23,1
+TamÃ¡s Nikitscher,23/24,193.0,Central Midfield,Nov 3 1999 (25),634.0,1,261.0,40.0,True,2023,24,0
+Tanguy Nianzou,22/23,191.0,Centre-Back,Jun 7 2002 (22),2680.0,2,48.0,12.0,True,2022,20,1
+Tanguy Nianzou,23/24,191.0,Centre-Back,Jun 7 2002 (22),790.0,3,120.0,20.0,True,2023,21,1
+Thibaut Courtois,22/23,200.0,Goalkeeper,May 11 1992 (32),4920.0,3,36.0,9.0,True,2022,30,1
+Thibaut Courtois,23/24,200.0,Goalkeeper,May 11 1992 (32),513.0,2,276.0,48.0,True,2023,31,1
+Thierno Barry,22/23,195.0,Centre-Forward,Oct 21 2002 (22),3351.0,0,0.0,0.0,False,2022,20,0
+TomÃ¡s Conechny,22/23,176.0,Left Winger,Mar 30 1998 (26),5660.0,0,0.0,0.0,False,2022,24,0
+Toni MartÃ­nez,22/23,187.0,Centre-Forward,Jun 30 1997 (27),2013.0,0,0.0,0.0,False,2022,25,0
+Toni MartÃ­nez,23/24,187.0,Centre-Forward,Jun 30 1997 (27),589.0,0,0.0,0.0,False,2023,26,0
+Umar Sadiq,22/23,191.0,Centre-Forward,Feb 2 1997 (28),415.0,1,292.0,51.0,True,2022,25,1
+Umar Sadiq,23/24,191.0,Centre-Forward,Feb 2 1997 (28),1508.0,2,14.0,3.0,True,2023,26,0
+Unai GÃ³mez,22/23,183.0,Attacking Midfield,May 25 2003 (21),4836.0,0,0.0,0.0,False,2022,19,1
+Unai GÃ³mez,23/24,183.0,Attacking Midfield,May 25 2003 (21),1409.0,2,11.0,1.0,True,2023,20,0
+Unai SimÃ³n,22/23,190.0,Goalkeeper,Jun 11 1997 (27),3945.0,2,62.0,6.0,True,2022,25,0
+Unai SimÃ³n,23/24,190.0,Goalkeeper,Jun 11 1997 (27),3934.0,0,0.0,0.0,False,2023,26,1
+Vedat Muriqi,22/23,194.0,Centre-Forward,Apr 24 1994 (30),3811.0,0,0.0,0.0,False,2022,28,1
+Vedat Muriqi,23/24,194.0,Centre-Forward,Apr 24 1994 (30),2793.0,1,65.0,13.0,True,2023,29,1
+Viktor Tsygankov,22/23,178.0,Right Winger,Nov 15 1997 (27),5196.0,1,6.0,1.0,True,2022,25,1
+Viktor Tsygankov,23/24,178.0,Right Winger,Nov 15 1997 (27),2578.0,5,137.0,13.0,True,2023,26,1
+Vinicius Junior,22/23,176.0,Left Winger,Jul 12 2000 (24),5867.0,1,4.0,2.0,True,2022,22,1
+Vitor Roque,22/23,174.0,Centre-Forward,Feb 28 2005 (19),6242.0,0,0.0,0.0,False,2022,17,1
+Vitor Roque,23/24,174.0,Centre-Forward,Feb 28 2005 (19),436.0,1,63.0,10.0,True,2023,18,1
+Vladyslav Krapyvtsov,23/24,188.0,Goalkeeper,Jun 25 2005 (19),630.0,0,0.0,0.0,False,2023,18,0
+Walid Cheddira,22/23,187.0,Centre-Forward,Jan 22 1998 (27),3139.0,0,0.0,0.0,False,2022,24,0
+William Carvalho,22/23,187.0,Defensive Midfield,Apr 7 1992 (32),3742.0,0,0.0,0.0,False,2022,30,1
+William Carvalho,23/24,187.0,Defensive Midfield,Apr 7 1992 (32),1722.0,2,23.0,7.0,True,2023,31,1
+Williot Swedberg,22/23,187.0,Left Winger,Feb 1 2004 (21),839.0,0,0.0,0.0,False,2022,18,1
+Willy Kambwala,22/23,192.0,Centre-Back,Aug 25 2004 (20),606.0,0,0.0,0.0,False,2022,18,1
+Wojciech Szczesny,22/23,195.0,Goalkeeper,Apr 18 1990 (34),5231.0,3,50.0,9.0,True,2022,32,1
+Wojciech Szczesny,23/24,195.0,Goalkeeper,Apr 18 1990 (34),3630.0,1,7.0,1.0,True,2023,33,0
+Yangel Herrera,22/23,184.0,Central Midfield,Jan 7 1998 (27),1633.0,2,132.0,21.0,True,2022,24,1
+Yangel Herrera,23/24,184.0,Central Midfield,Jan 7 1998 (27),2557.0,2,86.0,13.0,True,2023,25,0
+Yarek Gasiorowski,22/23,192.0,Centre-Back,Jan 12 2005 (20),1787.0,0,0.0,0.0,False,2022,17,0
+Yellu Santiago,22/23,192.0,Central Midfield,May 25 2004 (20),1934.0,0,0.0,0.0,False,2022,18,0
+Youssouf Sabaly,22/23,173.0,Right-Back,Mar 5 1993 (31),2382.0,0,0.0,0.0,False,2022,29,1
+Youssouf Sabaly,23/24,173.0,Right-Back,Mar 5 1993 (31),1110.0,2,140.0,32.0,True,2023,30,1
+Yvan Neyou,22/23,180.0,Defensive Midfield,Jan 3 1997 (28),1122.0,0,0.0,0.0,False,2022,25,0
+Yvan Neyou,23/24,180.0,Defensive Midfield,Jan 3 1997 (28),2807.0,0,0.0,0.0,False,2023,26,1
+YÃ¡ser Asprilla,22/23,176.0,Right Winger,Nov 19 2003 (21),2145.0,0,0.0,0.0,False,2022,19,0
+YÃ¡ser Asprilla,23/24,176.0,Right Winger,Nov 19 2003 (21),3004.0,0,0.0,0.0,False,2023,20,1
+YÃ©remy Pino,22/23,172.0,Right Winger,Oct 20 2002 (22),3711.0,0,0.0,0.0,False,2022,20,1
+YÃ©remy Pino,23/24,172.0,Right Winger,Oct 20 2002 (22),762.0,1,214.0,39.0,True,2023,21,0
+Ãlex Baena,22/23,174.0,Left Winger,Jul 20 2001 (23),4391.0,0,0.0,0.0,False,2022,21,1
+Ãlex Baena,23/24,174.0,Left Winger,Jul 20 2001 (23),4055.0,1,3.0,1.0,True,2023,22,0
+Ãlex Remiro,22/23,191.0,Goalkeeper,Mar 24 1995 (29),5220.0,0,0.0,0.0,False,2022,27,0
+Ãlex Remiro,23/24,191.0,Goalkeeper,Mar 24 1995 (29),4431.0,0,0.0,0.0,False,2023,28,0
+Ãlvaro DjalÃ³,22/23,175.0,Left Winger,Aug 16 1999 (25),1447.0,0,0.0,0.0,False,2022,23,1
+Ãlvaro DjalÃ³,23/24,175.0,Left Winger,Aug 16 1999 (25),3213.0,2,23.0,3.0,True,2023,24,1
+Ãlvaro RodrÃ­guez,22/23,193.0,Centre-Forward,Jul 14 2004 (20),5122.0,0,0.0,0.0,False,2022,18,0
+Ãlvaro RodrÃ­guez,23/24,193.0,Centre-Forward,Jul 14 2004 (20),4767.0,0,0.0,0.0,False,2023,19,1
+Ãngel Correa,22/23,171.0,Right Winger,Mar 9 1995 (29),1953.0,0,0.0,0.0,False,2022,27,1
+Ãngel FortuÃ±o,22/23,183.0,Goalkeeper,Oct 5 2001 (23),4140.0,0,0.0,0.0,False,2022,21,0
+Ãngel Ortiz,22/23,167.0,Right-Back,Jul 25 2004 (20),2243.0,0,0.0,0.0,False,2022,18,0
+Ãngel Ortiz,23/24,167.0,Right-Back,Jul 25 2004 (20),5062.0,0,0.0,0.0,False,2023,19,1
+Ã˜rjan Nyland,22/23,192.0,Goalkeeper,Sep 10 1990 (34),1620.0,0,0.0,0.0,False,2022,32,1
+Ã˜rjan Nyland,23/24,192.0,Goalkeeper,Sep 10 1990 (34),2925.0,1,75.0,17.0,True,2023,33,1
+Ã‰der MilitÃ£o,22/23,186.0,Centre-Back,Jan 18 1998 (27),4591.0,2,18.0,5.0,True,2022,24,1
+Ã‰der MilitÃ£o,23/24,186.0,Centre-Back,Jan 18 1998 (27),956.0,2,232.0,48.0,True,2023,25,1
