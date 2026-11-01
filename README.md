@@ -66,14 +66,17 @@ The cleaned data has one row per injury, so the final notebook groups it into **
 
 ## Results
 
-Iteration Zero (k-NN): accuracy 0.529, precision 0.609, recall 0.158, F1-score 0.251.
-
-Final iteration: *(add here the table of the final notebook)*
+The models were evaluated on the test seasons (22/23 to 24/25), which they did not see during training. The test set is balanced (50.6% of player-seasons with injury and 49.4% without), so a model without predictive ability would have an accuracy of around 50%.
 
 | Model | Accuracy | Precision | Recall | F1-score |
 |---|---|---|---|---|
-| Logistic Regression | | | | |
-| Random Forest | | | | |
+| k-NN (Iteration Zero) | 0.529 | 0.609 | 0.158 | 0.251 |
+| Logistic Regression | 0.639 | 0.683 | 0.536 | 0.601 |
+| Random Forest | 0.649 | 0.662 | 0.627 | 0.644 |
+
+- Both final models are clearly better than the k-NN of Iteration Zero, mainly in recall and F1-score.
+- The Random Forest performs slightly better overall and finds more of the players who are injured the following season (it missed 78 injured players, against 97 for the Logistic Regression).
+- The Logistic Regression is slightly more precise, but it misses more injured players.
 
 ## MVP
 
